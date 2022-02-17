@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    align-items: center;
+}
+nav{
+    background-color: #EEEEEE;
+    margin-bottom: 5px;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+}
+footer{
+    display: grid;
+    grid-template-columns: 2fr 1fr 3fr;
+}
+.footer1{
+    background-color: #7EE5DB;
+}
+.footer2{
+    padding-top: 15px;
+    display: flex;
+    flex-direction: column;
+    background-color: #70CCC2;
+}
+.footer3{
+    background-color: #63B2AA;
+}
